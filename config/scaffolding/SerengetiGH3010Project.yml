@@ -13,7 +13,7 @@ packages:
   gitUsername: ArtiKhare
   gitBranch: main
 - name: upperfspackage
-  gitServerName: srcCtrl_bitbucket_Arti
+  gitServerName: srcCtrl_shared_bitbucket_Arti
   gitUrl: https://bitbucket.org/testartiibm
   gitUsername: artikhare
-  gitBranch: master
+  gitBranch: nestedBB/newbranch
